@@ -1,0 +1,7 @@
+site_name: Stories
+theme: readthedocs
+nav:
+  - Introduction to My World: index.md
+  - Lime Green Sword: lime-green-sword.md
+  - He Doesn't Know I'm an Angel: colita.md
+  - The Six Thieves: the-six-thieves.md
